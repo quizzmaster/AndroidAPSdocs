@@ -23,6 +23,7 @@ Long press on any of the buttons to alter the setting. I.e long press the target
 * your current basal rate - including any temporary basal rate (TBR) programmed by the system
 * insulin on board (IOB)
 * carbs on board (COB)
+* Autosens (AS)
 
 The optional [status lights](../Configuration/Preferences#overview) (CAN | INS | RES | SEN | BAT) give a visual warning for low reservoir and battery level as well as overdue site change.
 
